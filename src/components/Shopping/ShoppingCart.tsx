@@ -1,5 +1,5 @@
 import { Offcanvas, Stack } from "react-bootstrap"
-import useShoppingCart from '/CODE/TS/Shop/src/context/ShoppingCartContext'
+import useShoppingCart from '../../context/ShoppingCartContext'
 import formatCurrency from "../../utilities/formatCurrency"
 import { CartItem } from "../CartItem/CartItem"
 import storeItems from "../../data/Items.json"
