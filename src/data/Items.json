@@ -3,72 +3,72 @@
         "id": 1,
         "name": "Blood Born",
         "price": 19.99,
-        "img": "public/imgs/blood born.jpg"
+        "img": "/imgs/blood born.jpg"
     },
     {
         "id": 2,
         "name": "Dark Souls",
         "price": 8.99,
-        "img": "public/imgs/dark souls.jpg"
+        "img": "/imgs/dark souls.jpg"
     },
     {
         "id": 3,
         "name": "Dungeons",
         "price": 5.99,
-        "img": "public/imgs/dungeons of drakkenheim.webp"
+        "img": "/imgs/dungeons of drakkenheim.webp"
     },
     {
         "id": 4,
         "name": "Elden Ring",
         "price": 16.99,
-        "img": "public/imgs/elden ring.jpg"
+        "img": "/imgs/elden ring.jpg"
     },
     {
         "id": 5,
         "name": "Go Straight",
         "price": 5.99,
-        "img": "public/imgs/go straight.webp"
+        "img": "/imgs/go straight.webp"
     },
     {
         "id": 6,
         "name": "Haryy Potter",
         "price": 39.99,
-        "img": "public/imgs/harry potter.jpeg"
+        "img": "/imgs/harry potter.jpeg"
     },
     {
         "id": 7,
         "name": "Lord Of The Ring",
         "price": 22.99,
-        "img": "public/imgs/the lord of the ring.png"
+        "img": "/imgs/the lord of the ring.png"
     },
     {
         "id": 8,
         "name": "Tomorrow And Tomorrow",
         "price": 9.99,
-        "img": "public/imgs/tomorrow and tomorrow.webp"
+        "img": "/imgs/tomorrow and tomorrow.webp"
     },
     {
         "id": 9,
         "name": "Viridian Gate",
         "price": 16.99,
-        "img": "public/imgs/viridian gate.jpg"
+        "img": "/imgs/viridian gate.jpg"
     },
     {
         "id": 10,
         "name": "Warhammer 40K",
         "price": 20.99,
-        "img": "public/imgs/warhammer 40k.jpg"
+        "img": "/imgs/warhammer 40k.jpg"
     },
     {
         "id": 11,
         "name": "Witcher",
         "price": 41.99,
-        "img": "public/imgs/witcher.jpg"
+        "img": "/imgs/witcher.jpg"
     },
     {
         "id": 12,
         "name": "World Of Warcroft",
         "price": 16.99,
-        "img": "public/imgs/world of warcraft.webp"
+        "img": "/imgs/world of warcraft.webp"
     }
 ]
